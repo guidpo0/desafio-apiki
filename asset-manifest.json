@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/desafio-apiki/static/css/main.886888ad.chunk.css",
+    "main.js": "/desafio-apiki/static/js/main.11a618c3.chunk.js",
+    "main.js.map": "/desafio-apiki/static/js/main.11a618c3.chunk.js.map",
+    "runtime-main.js": "/desafio-apiki/static/js/runtime-main.dc79568b.js",
+    "runtime-main.js.map": "/desafio-apiki/static/js/runtime-main.dc79568b.js.map",
+    "static/js/2.8e6e69a8.chunk.js": "/desafio-apiki/static/js/2.8e6e69a8.chunk.js",
+    "static/js/2.8e6e69a8.chunk.js.map": "/desafio-apiki/static/js/2.8e6e69a8.chunk.js.map",
+    "index.html": "/desafio-apiki/index.html",
+    "static/css/main.886888ad.chunk.css.map": "/desafio-apiki/static/css/main.886888ad.chunk.css.map",
+    "static/js/2.8e6e69a8.chunk.js.LICENSE.txt": "/desafio-apiki/static/js/2.8e6e69a8.chunk.js.LICENSE.txt",
+    "static/media/facebook.4f037d96.png": "/desafio-apiki/static/media/facebook.4f037d96.png",
+    "static/media/instagram.650c5954.png": "/desafio-apiki/static/media/instagram.650c5954.png",
+    "static/media/linkedin.6892b3ae.png": "/desafio-apiki/static/media/linkedin.6892b3ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc79568b.js",
+    "static/js/2.8e6e69a8.chunk.js",
+    "static/css/main.886888ad.chunk.css",
+    "static/js/main.11a618c3.chunk.js"
+  ]
+}
